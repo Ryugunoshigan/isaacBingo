@@ -1,7 +1,7 @@
 isaacBingo
 ==========
 
-The Binding of Isaac Bingo Rebirth Generator
+The Binding of Isaac Bingo Generator
 
 Everything is hosted in the gh-pages branch.
-http://ryugunoshigan.github.io/isaacBingo/
+http://hyphen-ated.github.io/isaacBingo/
