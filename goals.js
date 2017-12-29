@@ -1,5 +1,6 @@
 easyGoals = [
-
+"2.00 Speed|2.00 Speed",
+"Leviathan Transformation|Transformation"
 ]
 
 mediumGoals = [
