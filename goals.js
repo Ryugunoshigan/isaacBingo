@@ -14,7 +14,6 @@ easyGoals = [
 "55 Coins|55coins",
 "10 Keys|10keys",
 "20 Bombs|20bombs",
-"Kill a Green Champion Mob or Boss|greenChamp",
 "Satisfy a Sacrifice Room|satisfySacRoom|Sacrifice rooms are the ones with spikes inside, not teeth in the door. You must get a treasure from it.",
 "Teleport Out of a Boss Fight|teleportBoss",
 "Any Mushroom|mushroom",
